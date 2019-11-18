@@ -1,0 +1,17 @@
+[21-Oct-2019 05:41:11 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:14 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:16 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:21 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:21 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:24 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:27 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:29 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:31 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:41:35 UTC] PHP Warning:  sprintf(): Too few arguments in /home/krushqbd/public_html/osrfreight.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[21-Oct-2019 05:59:17 UTC] PHP Warning:  XMLReader::expand(): /home/krushqbd/public_html/osrfreight.com/wp-content/themes/easybook/inc/demo_data_files/all-content.xml:43641: parser error : Input is not proper UTF-8, indicate encoding !
+Bytes: 0x00 0x41 0x63 0x74 in /home/krushqbd/public_html/osrfreight.com/wp-content/plugins/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php on line 374
+[21-Oct-2019 05:59:17 UTC] PHP Warning:  XMLReader::expand(): 		&lt;wp:meta_value&gt;&lt;![CDATA[O:32:&quot;ActionScheduler_IntervalSchedule&quot;:2:{s:49:&quot; in /home/krushqbd/public_html/osrfreight.com/wp-content/plugins/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php on line 374
+[21-Oct-2019 05:59:17 UTC] PHP Warning:  XMLReader::expand(): 		                                                                         ^ in /home/krushqbd/public_html/osrfreight.com/wp-content/plugins/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php on line 374
+[21-Oct-2019 05:59:17 UTC] PHP Warning:  XMLReader::expand(): An Error Occurred while expanding  in /home/krushqbd/public_html/osrfreight.com/wp-content/plugins/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php on line 374
+[21-Oct-2019 05:59:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/krushqbd/public_html/osrfreight.com/wp-content/plugins/one-click-demo-import/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php on line 605
+[21-Oct-2019 05:59:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/krushqbd/public_html/osrfreight.com/wp-content/plugins/easybook-add-ons/includes/class-import.php on line 92
